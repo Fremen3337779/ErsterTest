@@ -1,0 +1,18 @@
+print('schnelles Geschreibsel für GitHub-Test')
+
+1 + 1
+a = 3
+b = a
+c = [2,3,4,4,'ha','argh',2343]
+
+for i in c[3:7]:
+    print(i)
+    print(a)
+    a = a + 1
+
+d = c + [34234,23424,23423,24324,23424,c,'sddd',888999000]
+
+for i in range(0, len(d), 3):
+    print(d[i])
+
+print('fertig')
