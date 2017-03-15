@@ -16,3 +16,5 @@ for i in range(0, len(d), 3):
     print(d[i])
 
 print('fertig')
+
+print('noch n print um was zum pushen zu haben')
